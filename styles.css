@@ -29,13 +29,14 @@ body {
 .begin {
     margin: 15px;
     display: inline-block;
-    height: 25px;
-    width: 40px;
+    height: 30%;
+    width: 10%;
     border: 5px solid black;
     border-radius: 5%;
     background-color: black;
     color: darkorange;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
 
 }
 
